@@ -26,7 +26,7 @@
   [ 
        { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 0 },
        { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 1 },
-       ]
+       ],
 /*
  * LARGE PAGE SUPPORT
  * Lare pages need a properly set up OS. It can be difficult if you are not used to systems administation,
